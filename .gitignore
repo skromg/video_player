@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Compiled Dir
+*-Debug/
+
+# User file
+*.user
